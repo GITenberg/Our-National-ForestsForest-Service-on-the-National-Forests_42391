@@ -1,0 +1,31 @@
+_repo: Our-National-ForestsForest-Service-on-the-National-Forests_42391
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42391-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boerker, Richard H. D. (Richard Hans Douai)
+    aliases:
+    - Boerker, Richard Hans Douai
+    - Boerker, Richard H. Douai
+    birthdate: 1887
+    gutenberg_agent_id: '41664'
+    url: http://www.gutenberg.org/2009/agents/41664
+description: ''
+gutenberg_issued: '2013-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42391'
+  lccn: '18018150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SD'
+- !lcsh 'United States. Forest Service'
+- !lcsh 'Forests and forestry -- United States'
+title: "Our National Forests\r\nA Short Popular Account of the Work of the United\
+  \ States Forest Service on the National Forests"
+url: http://www.gutenberg.org/ebooks/42391
