@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '41664'
     url: http://www.gutenberg.org/2009/agents/41664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42391#Our-National-ForestsForest-Service-on-the-National-Forests
 gutenberg_issued: '2013-03-23'
 gutenberg_type: Text
 identifiers:
